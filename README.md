@@ -1,2 +1,2 @@
 # PINN System Identification
-System Identification of a Dynamical System using a Physics-Informed Neural Network (PINN)
+System identification of a dynamical system using a *physics-informed neural network* (PINN)
